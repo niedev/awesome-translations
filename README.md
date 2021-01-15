@@ -18,9 +18,10 @@ Questa lista contiene strumenti, libri, articoli, blogs, corsi e tutto quello ch
 
 ## Traduzioni
 
-- [English](https://github.com/mbiesiad/awesome-translations)
-- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-- [Spanish](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Inglese](https://github.com/mbiesiad/awesome-translations)
+- [Polacco](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+- [Spagnolo](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Italiano](https://github.com/niedev/awesome-translations/tree/it_IT/)
 
 ## Piattaforme
 
